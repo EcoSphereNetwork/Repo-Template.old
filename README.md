@@ -72,7 +72,6 @@ Repo-Template/
 ├── src/                 # Source code
 ├── docs/              # Documentation
 │   ├── PROJECT_DESCRIPTION.md
-│   ├── UI_COMPONENTS.md
 ├── tests/             # Test files
 ```
 
