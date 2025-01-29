@@ -106,9 +106,7 @@ Repo-Template/
 <test>
 ```
 
-## Performance
-
-### Requirements
+## Requirements
 - **Minimum:**
   - CPU: <x> cores
   - RAM: <x>GB
