@@ -149,5 +149,5 @@ Repo-Template/
 ---
 
 ### Activity
-
+**Get Link from [repobeats.axiom](https://repobeats.axiom.co/configs) (works only with public repos)
 ![Alt](https://repobeats.axiom.co/api/embed/cb5cd21d87747a17558d55c005034a3578f3dd28.svg "Repobeats analytics image")
